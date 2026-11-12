@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Multi-Agent Development Team
 
 A small team of AI agents that turns a software requirement into tested Python code and a report.
@@ -40,3 +41,6 @@ Optional: `--provider groq|anthropic`, `--model <name>`, or `GROQ_MODEL` in `.en
 ## Safety note
 The generated tests execute AI-written code in a subprocess (with a timeout, but not a hardened sandbox).
 Use a container or VM for untrusted requirements.
+=======
+# multi-agent
+>>>>>>> 564f46bba971748531e123e7e636fede741f4055
